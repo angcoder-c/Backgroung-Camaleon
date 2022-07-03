@@ -1,0 +1,46 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    min-width: 20%;
+    border-radius: 10px;
+    margin: auto;
+    display: grid;
+    text-align: center;
+    position: relative;
+}
+
+#change {
+    height: 40px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border:none;
+    background-color: rgb(240, 178, 23);
+    transition: .7s;
+}
+
+#change:hover {
+    transition: .7s;
+    background-color: rgb(165, 123, 16);
+}
+
+#change:active {
+    transition: .07s;
+    background-color: rgb(153, 218, 34);
+}
+
+.info {
+    background-color: rgb(20, 8, 53);
+    color: #fff;
+    font-size: 20px;
+    padding: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+b {
+    color:rgb(227, 165, 252);
+}
