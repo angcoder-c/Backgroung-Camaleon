@@ -1,5 +1,5 @@
 # Background camaleón
-An application that changes its background color to a completely different one when pressing a button, making use of the open source API `thecolorapi.com`.
+An application that changes its background color to a completely different one when pressing a button, making use of the open source API `www.thecolorapi.com`.
 
 ## Requirements ⚙️
 - Any web browser
