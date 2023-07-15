@@ -7,7 +7,7 @@ An application that changes its background color to a completely different one w
 
 ## Clone the repository
 ```bash
-git clone https://github.com/Angel-Gabriel-Chavez/Backgroung-Camaleon.git
+git clone https://github.com/angcoder-c/Backgroung-Camaleon.git
 ```
 ## Run 🏁
 Open Html file `index.html` in the browser
